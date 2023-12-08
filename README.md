@@ -1,6 +1,6 @@
-## vue-to-do-app
+### vue-to-do-app
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
